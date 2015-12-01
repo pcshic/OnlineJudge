@@ -1,0 +1,25 @@
+{
+  "name": "online-judge",
+  "version": "0.1.0",
+  "description": "A course-oriented online judge based on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcshic/OnlineJudge.git"
+  },
+  "keywords": [
+    "judge"
+  ],
+  "author": "m80126colin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcshic/OnlineJudge/issues"
+  },
+  "homepage": "https://github.com/pcshic/OnlineJudge#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
